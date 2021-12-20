@@ -1,0 +1,42 @@
+*{margin:0; padding:0;}
+html{
+    background: black; 
+    font-family: 'Mountains of Christmas', cursive; 
+    color: #F1F1F1;
+}
+p   .gifts{display:block;float:right;}
+    .gifts{display:block;float:right; !important}
+p{font-size: 25px;}
+
+.heading{
+    font-family: 'Mountains of Christmas', cursive; 
+    font-size: 30px;
+}
+
+#alerts{
+    font-size: 25px;
+    color:greenyellow;
+}
+.wrap{
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 900px;
+    height: 745px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+canvas{    
+    border:1px solid #000;    
+    background:grey;        
+    margin-top:0;    
+    padding-left: 0;
+    padding-right: 0;
+    margin-left:auto;
+    margin-right:auto;    
+    display: block;  
+}
